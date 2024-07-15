@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Deployment link for the project : https://aditya0402-debug.github.io/CDC-Sorting-Project/
+Deployment link for the project : https://imriitik.github.io/Sorting_Visualiser
